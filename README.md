@@ -32,7 +32,7 @@ This is my fiveth created using React.js. The page acts as a page representing a
 <strong>Data:</strong> Data is passed in via props.</br>
 <strong>Styling:</strong> Application of CSS styles to give the page an aesthetically pleasing look.</br>
 <strong>Hooks:</strong> Using the useState hook to update the page state.</br>
-<strong>Functions:</strong> Add | Remove | Select Component | Calculate Bill </br>
+<strong>Functions:</strong> `Add` | `Remove` | `Select Component` | `Calculate Bill` </br>
 <strong>Deployment:</strong> The project was deployed on Netlify so that it could be available to the public.</br>
 
 https://project05-oszymorek.netlify.app/
